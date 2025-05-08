@@ -4,9 +4,6 @@
 ☁️ crafting clouds with code and care<br/>
 🪽 scalable skies soar<br/>
 
-# 💫 About Me:
-🚀 Architect of air<br>☁️ crafting clouds with code and care<br>🪽 scalable skies soar
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnold mbuthia) 
